@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-545
-- 👀 I’m interested in to articifical intelligence
-- 🌱 I’m currently learning phyton
+- 👀 I’m aspiring Application Developer Web Developer who really love to inpire many...
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on to learn something new
 - 📫 How to reach kumarbalaji545@gmail.com
 
